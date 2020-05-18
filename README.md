@@ -20,5 +20,35 @@
 - [Jest](https://www.npmjs.com/package/jest)
 
 ### Projeto
+Projeto de apredizagem das tecnologias React, React Native e Node durante a Semana Omnistack
+
+### Apresentaçãodo Projeto
 Este projeto visa proporcionar a ONG's uma estrutura para divulgar suas necessidades e pobilitar á doadores contatá-las 
 para ajuda-las tonando-se heróis.
+
+
+
+### Sreenshots
+
+#### Frontend
+<h4 align="center">
+<img src="./screenshots/frontend/login.png" />
+<h3>Login</h3>
+<br>
+<img src="./screenshots/frontend/register.png" />
+<h3>Tela de cadastro</h3>
+<br>
+<img src="./screenshots/frontend/home.png" />
+<h3>Home</h3>
+<br>
+<img src="./screenshots/frontend/new_incident.png" />
+<h3>Cadastro de no incidente</h3>
+<br>
+</h4>
+
+
+#### Moblie
+<h4 align="center">
+<img src="./screenshots/moblie/home.jpeg" width="50%" />
+<img src="./screenshots/moblie/incident.jpeg" width="50%"  />
+</h4>
